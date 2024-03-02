@@ -1,0 +1,13 @@
+.head {
+  height: 55px;
+  line-height: 55px;
+  background-color: #000;
+  color: #fff;
+  padding: 0 30px;
+}
+
+.head li {
+  float: left;
+  height: 55px;
+  margin-right: 30px;
+}
